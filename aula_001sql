@@ -1,0 +1,2 @@
+create table produtos (id_produto number primary key,
+                       nome_produto varchar2(30));
